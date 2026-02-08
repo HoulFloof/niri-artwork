@@ -1,4 +1,5 @@
 # niri artwork
+![works with niri](https://github.com/niri-wm/artwork/raw/refs/heads/main/official-branding/workswithniri.svg)
 ---
 A curated collection of artwork (wallpapers, alternative user-created logos, official branding, and badges) for the [niri](https://github.com/niri-wm/niri/) Wayland compositor created by [YaLTeR](https://github.com/YaLTeR/). 
 
